@@ -1,0 +1,27 @@
+.card {
+    width: 20rem;
+    border: 1px solid;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #000b1b;
+
+
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 40px;
+}
+
+.card-body {
+    color: white;
+}
+
+.button {
+    background-color: #000b1b;
+}

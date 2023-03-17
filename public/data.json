@@ -1,0 +1,163 @@
+[
+    {
+        "city": "Rome",
+        "price": "500",
+        "img": "./ROMA.jpg",
+        "id": "1",
+        "key": "1"
+    },
+    {
+        "city": "London",
+        "price": "550",
+        "img": "./london.jpg",
+        "id": "2",
+        "key": "2"
+    },
+    {
+        "city": "Paris",
+        "price": "400",
+        "img": "./paris.jpg",
+        "id": "3",
+        "key": "3"
+    },
+    {
+        "city": "Amsterdam",
+        "price": "470",
+        "img": "./amsterdam.jpg",
+        "id": "4",
+        "key": "4"
+    },
+    {
+        "city": "Brussels",
+        "price": "560",
+        "img": "./bruselas.jpg",
+        "id": "5",
+        "key": "5"
+    },
+    {
+        "city": "Viena",
+        "price": "580",
+        "img": "./viena.jpg",
+        "id": "6",
+        "key": "6"
+    },
+    {
+        "city": "Stockholm",
+        "price": "520",
+        "img": "./estocolmo.jpg",
+        "id": "7",
+        "key": "7"
+    },
+    {
+        "city": "Prague",
+        "price": "345",
+        "img": "./praga.jpg",
+        "id": "8",
+        "key": "8"
+    },
+    {
+        "city": "Warsaw",
+        "price": "330",
+        "img": "./varsovia.jpg",
+        "id": "9",
+        "key": "9"
+    },
+    {
+        "city": "Lisbon",
+        "price": "510",
+        "img": "./lisboa.jpg",
+        "id": "10",
+        "key": "10"
+    },
+    {
+        "city": "Oslo",
+        "price": "600",
+        "img": "./oslo.jpg",
+        "id": "11",
+        "key": "11"
+    },
+    {
+        "city": "Madrid",
+        "price": "425",
+        "img": "./madrid.jpg",
+        "id": "12",
+        "key": "12"
+    },
+    {
+        "city": "Sofia",
+        "price": "470",
+        "img": "./sofia.jpg",
+        "id": "13",
+        "key": "13"
+    },
+    {
+        "city": "Tirana",
+        "price": "355",
+        "img": "./tirana.jpg",
+        "id": "14",
+        "key": "14"
+    },
+    {
+        "city": "Dublin",
+        "price": "500",
+        "img": "./dublin.jpg",
+        "id": "15",
+        "key": "15"
+    },
+    {
+        "city": "Hamburg",
+        "price": "550",
+        "img": "./hamburgo.jpg",
+        "id": "16",
+        "key": "16"
+    },
+    {
+        "city": "Turin",
+        "price": "420",
+        "img": "./turin.jpg",
+        "id": "17",
+        "key": "17"
+    },
+    {
+        "city": "Mallorca",
+        "price": "610",
+        "img": "./Mallorca.jpg",
+        "id": "18",
+        "key": "18"
+    },
+    {
+        "city": "Marseille",
+        "price": "650",
+        "img": "./marsella.jpg",
+        "id": "19",
+        "key": "19"
+    },
+    {
+        "city": "Athens",
+        "price": "575",
+        "img": "./atenas-8.jpg",
+        "id": "20",
+        "key": "20"
+    },
+    {
+        "city": "Venice",
+        "price": "520",
+        "img": "./venecia1.jpg",
+        "id": "21",
+        "key": "21"
+    },
+    {
+        "city": "Barcelona",
+        "price": "480",
+        "img": "./barcelona.jpg",
+        "id": "22",
+        "key": "22"
+    },
+    {
+        "city": "Lyon",
+        "price": "540",
+        "img": "./lyon.jpeg",
+        "id": "23",
+        "key": "23"
+    }
+]

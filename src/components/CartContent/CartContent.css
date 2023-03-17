@@ -1,0 +1,25 @@
+.cartElements {
+    border: 2px solid;
+    max-width: 800px;
+    display: grid;
+    margin: auto;
+}
+
+.cart-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-around;
+    align-items: center;
+    justify-items: center;
+    margin: 30px
+}
+
+.cart-content img {
+    height: 120px;
+    width: 100px;
+}
+
+.cart-total {
+    display: flex;
+    justify-content: center;
+}
