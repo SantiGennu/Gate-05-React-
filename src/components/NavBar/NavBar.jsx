@@ -2,6 +2,7 @@ import CartWidget from "./CartWidget";
 import "./NavBar.css";
 import { Container, Navbar, Nav } from "react-bootstrap";
 import { Link } from "react-router-dom";
+import logo from "../../assets/gate 05.png";
 
 const NavBar = () => {
   return (
@@ -10,12 +11,7 @@ const NavBar = () => {
         <Container className="nav-container">
           <Link className="logo" to={"/"}>
             {" "}
-            <img
-              src="/public/gate 05.png"
-              alt=""
-              width={140}
-              height={100}
-            />{" "}
+            <img src={logo} alt="" width={140} height={100} />
           </Link>
           <Navbar.Toggle
             className="ms-auto"

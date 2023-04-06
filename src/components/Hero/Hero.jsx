@@ -1,5 +1,5 @@
 import "./Hero.css";
-
+import logo from "../../assets/gate 05.png";
 const Hero = () => {
   return (
     <>
@@ -28,7 +28,7 @@ const Hero = () => {
         </div>
         <div>
           {" "}
-          <img className="logo-hero" src="/public/gate 05.png" alt="" />
+          <img className="logo-hero" src={logo} alt="" />
         </div>
 
         <div className="hero-text1">
