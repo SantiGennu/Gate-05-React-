@@ -1,16 +1,18 @@
-
-import NavBar from '../NavBar/NavBar'
+import Navbar from "../NavBar/NavBar"
+import Hero from '../Hero/Hero'
 import Products from '../Products/Products'
 
 const Home = () => {
     return (
         <>
-            <NavBar />
+            <Navbar />
+            <Hero />
             <div className="card-container">
                 <Products />
             </div>
-
         </>
+
+
     )
 }
 

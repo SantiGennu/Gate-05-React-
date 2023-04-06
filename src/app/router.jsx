@@ -3,6 +3,8 @@ import Home from "../components/Home/Home"
 import CartContent from "../components/CartContent/CartContent"
 import DataProvider from "../components/Context/DataContext"
 
+
+
 const Router = () => {
     return (
         <BrowserRouter>

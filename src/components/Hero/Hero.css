@@ -1,0 +1,66 @@
+.hero {
+    background-color: #000b1b;
+    height: 80vh;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+
+
+}
+
+.divider {
+    background-color: white;
+    height: 5px;
+    position: relative;
+    /* width: 100vw; */
+}
+
+
+.hero-text {
+    display: grid;
+    color: #000b1b;
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin: auto;
+    font-family: 'Kaisei Decol', serif;
+    padding: 20px 0 20px 20px;
+    background-color: #38b6ff;
+    border-radius: 50px;
+
+}
+
+.hero-text1 {
+    display: grid;
+    color: #000b1b;
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin: auto;
+    font-family: 'Kaisei Decol', serif;
+    padding: 20px 0 20px 20px;
+    background-color: #38b6ff;
+    border-radius: 50px;
+    margin-right: 50px;
+}
+
+.symbol {
+    align-items: center;
+    font-size: 50px;
+    padding: 20px;
+    color: white;
+}
+
+.text-icon {
+    display: flex;
+    align-items: center;
+
+}
+
+.text-icon2 {
+    display: flex;
+    align-items: center;
+
+}
+
+.logo-hero {
+    width: 100%;
+}
